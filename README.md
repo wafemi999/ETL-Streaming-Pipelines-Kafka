@@ -1,7 +1,7 @@
-# ETL-Streaming-Pipelines-Kafka:
-Creating Streaming Data Pipelines using Kafka.
+# ETL-Streaming-Pipelines-Kafka::
+Creating Streaming Data Pipelines using Kafka..
 
-#  Data Pipeline architecture:
+#  Data Pipeline architecture::
 
 [Toll Plaza] --> Kafka --> [Kafka Consumer (Python)] --> MySQL.
 
