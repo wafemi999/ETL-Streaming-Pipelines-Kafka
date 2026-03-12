@@ -1,5 +1,5 @@
 # ETL-Streaming-Pipelines-Kafka:
-Creating Streaming Data Pipelines using Kafka..
+Creating Streaming Data Pipelines using Kafka.
 
 #  Data Pipeline architecture:
 
@@ -19,6 +19,6 @@ Aim is to de-congest the national highways by analyzing the road traffic data fr
 * Install the MySQL python driver.
 * Create a topic to hold the toll data in kafka.
 * Configure  toll plaza program to stream to created topic. (toll_plaza_device)
-* Create streaming data consumer. (see data_consumer)
+* Create streaming data consumer. (see data_consumer).
 * configure the consumer program to write into a MySQL database table.
 * Refresh tle o confirm data streaming.
